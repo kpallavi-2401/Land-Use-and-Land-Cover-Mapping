@@ -1,3 +1,9 @@
-Created GIS layers of buildings, roads, greenery, and open spaces using high-resolution satellite imagery.
+Land Use and Land Cover Mapping – MANIT Campus
 
-Performed digitization and spatial analysis using Google Earth and QGIS for accurate area estimation and campus planning.
+Tools Used: Google Earth Pro, QGIS
+
+Description:
+
+Digitized key land features (buildings, roads, greenery, open areas) of MANIT Bhopal using high-resolution satellite imagery in Google Earth Pro and created GIS layers.
+
+Processed and analyzed spatial data in QGIS, including area calculations, map styling, and visualization to generate thematic maps for urban planning and infrastructure monitoring.
